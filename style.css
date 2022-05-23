@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+form {
+	justify-content: center;
+	border: solid black 1px;
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+	width: 300px;
+	font-family: monospace;
+	font-size: 15px;
+	
+}
+
+h1 {
+	margin: 20px;
+	font-family: monospace;
+	
+}
+
+h3 {
+	background-color: teal;
+	color: white;
+	border: solid black 2px;
+	padding: 20px;
+	margin: 20px;
+	
+}
